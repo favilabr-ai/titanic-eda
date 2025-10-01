@@ -52,5 +52,5 @@ Exemplo de gráfico:
 ## 🚀 Como Executar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/<SEU_USUARIO>/titanic-eda.git
+   git clone https://github.com/favilabr-ai/titanic-eda.git
    cd titanic-eda
